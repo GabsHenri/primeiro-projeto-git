@@ -1,2 +1,7 @@
-# primeiro-projeto-git
-Desafio de projeto Git/Github - DIO
+## Desafio - Projeto Git/Github
+
+Criado para elaboração do projeto para fins de estudo
+
+## Início do Projeto
+
+Base Principal do projeto
